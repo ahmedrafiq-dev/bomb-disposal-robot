@@ -20,7 +20,7 @@ A remotely operated robotic system designed for safe bomb detection and disposal
 To design a low-cost, scalable robotic system for safety-critical applications such as bomb disposal.
 
 ## 📸 Demo / Media
-(Add images/videos here later)
+
 
 ## 📂 Project Status
-In development / Completed (update this)
+In development 
